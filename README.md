@@ -1,7 +1,11 @@
-# Framingham-Risk-Predictor
+# Framingham Risk Score Predictor
 Machine Learning Models Predicting Risk of Heart Disease within 10 years
 
+## Paper
+
 https://doi.org/10.70121/001c.154984
+
+## Abstract
 
 Cardiovascular disease (CVD) has emerged as one of the most primary causes of death in South Asia.
 Therefore, it is extremely important to understand the underlying important factors to prevent disease, as well as
