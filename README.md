@@ -20,5 +20,5 @@ how much we are “off” by. Linear regression and random forest performed the 
 of 0.88. The study also concluded that the features total cholesterol, diabetes, and BMI were the three key
 contributors to development of CVD.
 
-Keywords: machine learning, data science, data cleaning, cardiovascular disease, Bangladesh, regression, decision
+**Keywords:** machine learning, data science, data cleaning, cardiovascular disease, Bangladesh, regression, decision
 trees, linear regression.
